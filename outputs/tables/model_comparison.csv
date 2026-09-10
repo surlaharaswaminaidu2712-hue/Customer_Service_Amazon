@@ -1,0 +1,4 @@
+Model,Accuracy,Weighted F1 Score
+Logistic Regression,0.8525,0.8286
+Naive Bayes,0.8311,0.7944
+Linear SVM,0.8489,0.8237
